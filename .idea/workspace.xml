@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47ac3afe-261a-40ba-a390-1a04b8e15db8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/AnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/Black.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/Grey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/White.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/designpattern/abstractfactory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/soj/designpattern/abstractfactory/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/javaJourney.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/javaJourney.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soj/designpattern/abstractfactory/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,6 +65,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -96,33 +120,74 @@
       <option name="presentableId" value="Default" />
       <updated>1644181282577</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1644242250473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644242250473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="276" y="21" key="#Project_Structure" timestamp="1644181313978">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="276" y="21" key="#Project_Structure/0.0.1368.720@0.0.1368.720" timestamp="1644181313978" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1644241493876">
+    <state x="425" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1644245720222">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1644182906932" />
+    <state x="425" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1644245720222" />
+    <state x="249" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1644255085833">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="249" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.720@0.0.1368.720" timestamp="1644255085833" />
+    <state x="350" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1644244237677" />
+    <state x="354" y="114" key="CommitChangelistDialog2" timestamp="1644242250149">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="354" y="114" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1644242250149" />
+    <state width="1325" height="178" key="GridCell.Tab.0.bottom" timestamp="1644265110625">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="178" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1644265110625" />
     <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1644241493876" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1644241493876">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1325" height="178" key="GridCell.Tab.0.center" timestamp="1644265110625">
+      <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1644182906932" />
+    <state width="1325" height="178" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1644265110625" />
     <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1644241493876" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1644241493876">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1325" height="178" key="GridCell.Tab.0.left" timestamp="1644265110625">
+      <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1644182906931" />
+    <state width="1325" height="178" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1644265110625" />
     <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1644241493876" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1644241493876">
+    <state width="1325" height="178" key="GridCell.Tab.0.right" timestamp="1644265110625">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="178" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1644265110625" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1644241493876" />
+    <state x="279" y="251" key="Vcs.Push.Dialog.v2" timestamp="1644242264344">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1644182906932" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1644241493876" />
+    <state x="279" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1644242264344" />
+    <state x="395" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1644252100702">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="395" y="187" key="com.intellij.ide.util.TipDialog/0.0.1368.720@0.0.1368.720" timestamp="1644252100702" />
+    <state x="92" y="92" width="1184" height="536" maximized="true" key="dock-window-1" timestamp="1644255789876">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="92" y="92" width="1184" height="536" maximized="true" key="dock-window-1/0.0.1368.720@0.0.1368.720" timestamp="1644255789876" />
+    <state x="379" y="319" key="git4idea.merge.GitPullDialog" timestamp="1644242281866">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="379" y="319" key="git4idea.merge.GitPullDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1644242281866" />
     <state x="66" y="0" key="new project wizard" timestamp="1644181520799">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
