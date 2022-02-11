@@ -1,6 +1,6 @@
 package com.soj.designpattern.abstractfactory;
 
-import javax.swing.plaf.synth.ColorType;
+
 
 public class ColorFactory implements AbstractFactory<Color> {
     @Override

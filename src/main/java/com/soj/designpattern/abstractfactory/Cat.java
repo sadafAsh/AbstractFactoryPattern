@@ -4,7 +4,7 @@ public class Cat implements Animal {
 
     @Override
     public String getAnimal() {
-        return "Cat";
+        return "cat";
     }
 
     @Override
