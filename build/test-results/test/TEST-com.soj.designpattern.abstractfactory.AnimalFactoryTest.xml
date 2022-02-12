@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.soj.designpattern.abstractfactory.AnimalFactoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-02-11T09:14:50" hostname="DESKTOP-H3C67DB" time="0.033">
+  <properties/>
+  <testcase name="testToGetNull()" classname="com.soj.designpattern.abstractfactory.AnimalFactoryTest" time="0.024"/>
+  <testcase name="testToCreateCat()" classname="com.soj.designpattern.abstractfactory.AnimalFactoryTest" time="0.005"/>
+  <testcase name="testToCreateDog()" classname="com.soj.designpattern.abstractfactory.AnimalFactoryTest" time="0.001"/>
+  <testcase name="testToCreateDuck()" classname="com.soj.designpattern.abstractfactory.AnimalFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

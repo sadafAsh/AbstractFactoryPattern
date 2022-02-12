@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.soj.designpattern.abstractfactory.ColorFactoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-11T09:14:50" hostname="DESKTOP-H3C67DB" time="0.007">
+  <properties/>
+  <testcase name="testToGetNull()" classname="com.soj.designpattern.abstractfactory.ColorFactoryTest" time="0.001"/>
+  <testcase name="testToCreateGrey()" classname="com.soj.designpattern.abstractfactory.ColorFactoryTest" time="0.001"/>
+  <testcase name="testToCreateBlack()" classname="com.soj.designpattern.abstractfactory.ColorFactoryTest" time="0.001"/>
+  <testcase name="testToCreateWhite()" classname="com.soj.designpattern.abstractfactory.ColorFactoryTest" time="0.001"/>
+  <testcase name="testToGetColorFactory()" classname="com.soj.designpattern.abstractfactory.ColorFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

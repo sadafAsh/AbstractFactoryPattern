@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.soj.designpattern.abstractfactory.FactoryProducerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-02-11T09:14:50" hostname="DESKTOP-H3C67DB" time="0.002">
+  <properties/>
+  <testcase name="testToGetAnimalFactory()" classname="com.soj.designpattern.abstractfactory.FactoryProducerTest" time="0.001"/>
+  <testcase name="testToGetColorFactory()" classname="com.soj.designpattern.abstractfactory.FactoryProducerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
